@@ -2,6 +2,8 @@
 
 👉👉 Click to play [Parasprunki 16.0](https://sprunkly.org/game/parasprunki-15-0)
 
+Welcome to **Parasprunki 16.0**, the newest and most exciting chapter in the fan-made mod series inspired by the legendary music creation game, Incredibox. This latest version elevates the music composition experience by seamlessly combining engaging rhythm gameplay with intuitive creativity. Whether you are a casual gamer or a passionate music lover, **Parasprunki 16.0** beckons you to explore its vast horizons of sound and rhythm!
+
 ## Other Sprunki Games
 
 [Sprunkly](https://sprunkly.org/)
@@ -9,8 +11,6 @@
 [Scrunkly](https://scrunkly.cc/)
 
 [Sprunki Pyramixed](https://sprunkipyraminx.org/)
-
-Welcome to **Parasprunki 16.0**, the newest and most exciting chapter in the fan-made mod series inspired by the legendary music creation game, Incredibox. This latest version elevates the music composition experience by seamlessly combining engaging rhythm gameplay with intuitive creativity. Whether you are a casual gamer or a passionate music lover, **Parasprunki 16.0** beckons you to explore its vast horizons of sound and rhythm!
 
 ## What is Parasprunki 16.0?
 
